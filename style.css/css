@@ -1,0 +1,38 @@
+img{
+    width: 95%;
+    margin: 5%auto;
+    padding: 35%auto;
+    border-radius: 100%;
+    right: 10%;
+    list-style-position: inside;
+    margin-left: 2%;
+}
+div{
+    background: 40px;
+    background-color: dimgrey;
+} 
+h1{
+    font-size: 100px;
+    margin: 70px;
+}
+ul{
+    font-size: 100px;
+    justify-content:space-evenly ;
+    display: flex;
+    list-style-type: none;
+    background: 50px;
+    background-color: rgb(228, 154, 154);
+}
+form input[type='text']input[type='email'],input[type='number']{
+    border: solid;
+    width: 100%;
+}
+p{
+    font-size: 70px;
+}
+footer{
+    text-align: center;
+    color: green;
+    font-size: 200px;
+    font-weight: 100px;
+}
